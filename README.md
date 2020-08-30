@@ -31,8 +31,9 @@
 
 <br />
 
+<p align="left">
 Hi ,Im Vignesh, a causal coder from India 
-
+<p/>
 
 - 🔭 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Springboot and flutter; 

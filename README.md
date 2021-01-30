@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/Ze1Gn2V62X0Q1IH1vS/giphy.gif" width="50px">
 
 <a href="https://twitter.com/victor_gpz">
   <img align="left" alt="victor  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

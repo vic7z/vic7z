@@ -30,7 +30,7 @@
 <br/>
 
 <p align="left">
-Hi ,Im Vic, a causal coder from India 
+Hi ,Im Vic, a causal coder 
 <p/>
 
 - 🔭 I’m currently working on something cool :wink:;

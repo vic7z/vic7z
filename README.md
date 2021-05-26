@@ -32,7 +32,6 @@
 <p align="left">
 Hi ,Im Vic, a causal coder 
 <p/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic7z)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Springboot and flutter; 

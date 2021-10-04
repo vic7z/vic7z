@@ -34,9 +34,8 @@ Hi ,Im Vic, a causal coder
 <p/>
 
 - 🔭 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Springboot and flutter; 
+- 🌱 I’m currently learning Springboot; 
 - 💬 Ask me about anything, I am happy to help;
-- 🥔 farming potato at the moment
 
 <a href="https://github.com/vic7z">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vic7z&theme=light&count_private=true&layout=compact" alt="vic's most used languages" />

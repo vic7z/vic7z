@@ -13,9 +13,6 @@
 </a>
 
 
-<a href="https://www.reddit.com/user/victor_gpz/">
-  <img align="left" alt="victors's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
 
 <a href="https://open.spotify.com/user/victor_gpz">
   <img align="left" alt="victors's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/spotify.svg" />

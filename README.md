@@ -14,10 +14,6 @@
 
 
 
-<a href="https://open.spotify.com/user/victor_gpz">
-  <img align="left" alt="victors's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/spotify.svg" />
-</a>
-
 
 <a href="https://stackoverflow.com/users/9662165/victor-vs">
   <img align="left" alt="victors's Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />
@@ -31,7 +27,6 @@ Hi ,Im Vic, a causal coder
 <p/>
 
 - 🔭 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Springboot; 
 - 💬 Ask me about anything, I am happy to help;
 
 <a href="https://github.com/vic7z">
